@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RupeeRoute – Smart Expense Tracker",
+  "description": "A clean and colorful INR-based expense tracker that provides smart savings suggestions using AI. Track your daily expenses, visualize spending patterns with charts, and get personalized tips to improve your financial habits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
